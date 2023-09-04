@@ -1,3 +1,3 @@
-extra book ttemplate api
+# extra book ttemplate api
 
-This repository is made for extra-book repository database
+* This repository is made for book-store repository database
